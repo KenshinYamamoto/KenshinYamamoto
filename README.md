@@ -9,9 +9,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto" />
 </a>
+<br />
 
 <h1>↓ここに開発記録を保存しています</h1>
-<iframe src="https://kenshins-blog.vercel.app/"></iframe>
+https://kenshins-blog.vercel.app/
 
 <!--
 **KenshinYamamoto/KenshinYamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
