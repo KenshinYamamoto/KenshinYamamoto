@@ -10,6 +10,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto" />
 </a>
 
+<h1>↓ここに開発記録を保存しています</h1>
+<iframe src='https://kenshins-blog.vercel.app/' width='500' height='500'></iframe>
+
 <!--
 **KenshinYamamoto/KenshinYamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
