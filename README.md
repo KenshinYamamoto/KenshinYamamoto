@@ -8,6 +8,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KenshinYamamoto&theme=gruvbox&show_icons=ture" />
 </p>
 
+<h1>↓私のブログはこちら↓</h1>
 <a href='https://kenshins-blog.vercel.app/'>Kenshin'sBlog</a>
 
 <!--
