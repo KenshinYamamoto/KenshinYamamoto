@@ -7,9 +7,6 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto&layout=compact&show_icons=true&theme=gruvbox" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KenshinYamamoto&theme=gruvbox&show_icons=ture" />
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto" />
-</a>
 
 <a href='https://kenshins-blog.vercel.app/'>Kenshin'sBlog</a>
 
