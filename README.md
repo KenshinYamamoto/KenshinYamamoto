@@ -5,9 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenshinYamamoto&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KenshinYamamoto&theme=gruvbox&show_icons=ture" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>↓私のブログはこちら↓</h3>
 <a href='https://kenshins-blog.vercel.app/'>Kenshin'sBlog</a>
