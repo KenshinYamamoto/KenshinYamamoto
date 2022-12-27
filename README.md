@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenshinYamamoto&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto&langs_count=10&hide=C++,CMake,ShaderLabo)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>↓私のブログはこちら↓</h3>
 <a href='https://kenshins-blog.vercel.app/'>Kenshin'sBlog</a>
