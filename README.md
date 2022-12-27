@@ -7,6 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenshinYamamoto" />
+
 <h3>↓私のブログはこちら↓</h3>
 <a href='https://kenshins-blog.vercel.app/'>Kenshin'sBlog</a>
 
