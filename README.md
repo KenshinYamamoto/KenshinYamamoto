@@ -5,9 +5,6 @@
 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KenshinYamamoto&theme=aura&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KenshinYamamoto&theme=aura&show_icons=ture" />
-
-<h3>↓私のブログはこちら↓</h3>
-<a href='https://kenshins-blog.vercel.app/'>Kenshin'sBlog</a>
  
 <!--
 **KenshinYamamoto/KenshinYamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
